@@ -1,11 +1,13 @@
 # Hi, I'm Larry Slater 👋
-### IT Professional & Aspiring Cloud Security Architect
+CompTIA Security+ Certified | Aspiring Cloud Security Architect
 
-Currently studying for **AWS Solutions Architect (SAA-C03)** and **CompTIA Security+**.
+Building secure, scalable cloud infrastructure on AWS.
 
-**My Projects:**
-- 🛡️ [Security] (Coming soon...)
-- ☁️ [AWS] (Coming soon...)
+Current Focus:
+
+🛡️ Security: Applying Security+ principles (IAM, Encryption, Threat Detection) to Cloud environments.
+
+☁️ Cloud: Studying for AWS Solutions Architect Associate (SAA-C03)
 
 <!--
 **lslater-cloud/lslater-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
