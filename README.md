@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Larry Slater 👋
+### IT Professional & Aspiring Cloud Security Architect
+
+Currently studying for **AWS Solutions Architect (SAA-C03)** and **CompTIA Security+**.
+
+**My Projects:**
+- 🛡️ [Security] (Coming soon...)
+- ☁️ [AWS] (Coming soon...)
 
 <!--
 **lslater-cloud/lslater-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
